@@ -1,2 +1,2 @@
 # my-first-github-project
-A try
+A try to learn github quickly
